@@ -5,11 +5,11 @@
 1. 安装依赖
 
 ```bash
-> npm install
+> yarn
 ```
 
 2. 进入开发环境
 
 ```bash
-> npm run dev
+> yarn dev
 ```
